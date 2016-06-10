@@ -1,0 +1,52 @@
+/***** 202 Server *************/
+Host: 192.168.0.16
+U/P: root1 / Msp@1000db
+
+192.168.0.16/phpmyadmin
+Database: root / Msp@1000db
+
+
+/var/www/html
+
+
+Gmail: testing.msp1234@gmail.com / msp@123456
+QaTest7281@gmail.com
+QaTest2912@gmail.com
+QaTest1105@gmail.com
+Pwd : Qatest@123
+
+
+
+/*** FB ***/
+FB: msp.rakesha@gmail.com / Msp@123456
+http://202.131.107.107/demofb/
+App id: 517895215028732
+APP Secrate: 695efee096090dafd9a476e4daaa994e
+
+
+
+
+/**** SVN ***/
+ujjaval.v
+Msp@123
+
+svn cleanup
+svn add *
+svn update *
+SVN commit *
+
+/* redmine */
+http://202.131.107.110:8060/redmine/login
+jayesh
+msp@2015
+
+
+
+TWITTER DEATILS
+dhiraj.p@msp-group.co.uk
+Reset@123
+
+
+
+
+zip -r SafeerClasses.zip /opt/lampp/htdocs/SafeerClasses
